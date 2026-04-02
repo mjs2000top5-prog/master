@@ -1,0 +1,12 @@
+[gcp_service_account]
+type = "service_account"
+project_id = "여러분의-프로젝트-ID"
+private_key_id = "..."
+private_key = "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC+Gg+UuP0Y7vKp\n8/V2JyZY30Oiu/90/hL4p4rVZkE5AFpbWojEatmXMdFx5E4WR0vEjEZ68+SgrYw9\nSAedQH9KJLaYJ0wSvRzuohPr7uIX/5u7KY5a3PO6B7BB1kSYMnjY9Dp2mMUklT6u\nWpxnBAhgv6KDtEJwUffMtHmZkNp5jPwZCOUDvWRgF5XQMpeksNQD9VZ+lEmZJDSX\nuRbdnd54MDUhGo0EIJ/YOIubCTMZffkTtVChfngAZDVwCBR6BxtkYJKF2tcd22Yr\n/+UkwRDmabTm4gISHyafIim3wDRy5gRAMU0ryw6ZbbPZRx5NZx0/FUHxOGzeV1An\n9N5BuCBBAgMBAAECggEAAzTSkjQ4DZ97H492MojYwls6q3AfEAi4hnHh+zUzMKxP\nOdb6M1DnjF+qXBDJGeJYNm+UwT5jmuuub7qrKTV1KCmcHE8eXvsKVcKNUjeIX/X/\nWQ3rgSAUqsy2Jfgglk4UoHknEsjDG3m6ccuks26bmxEkYzMLQ1R4mN7q5aKOMspc\n1Y3yb1Ri1PuAXDJTqsRbZxBMRwgxus2f3X60KlVT36lzlgT2JtFcxTElSxvw4nlZ\nYdJEOfFilCzXsyFEhPQAheW41/BrLtV/9gEB3pGWD0cR2CQFbrrmJkqsOuA1Ekpq\nPfqIpVmiJkNxJDX2rx9phxDLxMVzvKCj8i0+i0S3IQKBgQD7I4n014mm9DXmWio/\nGDj7xUrKEJNdN0K3UbcFuQYBRYqytTSk3gH0sqVipxRqsimeFX43baTHsc2fP1S6\nFoQUWskDhXZxsgve2ohXKJg7mieht04g6Wpi+32gC6hkr7wlu1mbkK9mLOSu8DR7\n9UKdSir0UD11O5B8YDK44OO+UQKBgQDByBEip4KlzNfKzSf2GU04hSP/1Sg0fvrW\nyVX0TPq1GvLOErkGR0rpbvPEhrRfKcH9y1EOGGjPTELzpTrNS71HgJNOHhACWwGw\nBTFLcQnqFhBPwdyGk2yBW9TSCNyQc0uPDGC9lsJDGIgdZS8HanH93O2VfqcvjDl6\noR/riMcW8QKBgQDCuku+DWIuki0477DSO3Xzwoa7Jx8cqDyS6EmBpnWBhuqEpvyq\n2Xmqwtp6JBMwp/SdHw0+7UVXkgZd9D0+DTdckQhMMrAkeGm74rbU3iUsEdupCPkL\ni/Fxzo8aCfAIIjtBBoP0m7tk/mpTOu13MDT2wQuNZKpCvGzMA8tQjxAIAQKBgFuW\ncrrdTzuL8KYShwOi+8Nt8hDVr1X4ehgQOsbnp0r3vLC3WqnkAj0ISsClJhUgSGbq\ntJmj4c2wbqh3fK5RUNm9pGG0hb6HQunt2lmcyKHR4c3Ag7k7bnpJa/IFbDH9vEWV\nBRg2bASIULUMAMlRfyUMSWJx5RTtArG5+7s3/1kRAoGBAOgHeJcc88wp//q7/y1D\nkcgX8ss2cCC8o/i0CrOrMHSvveV7UzIktubJzdJuvTbzm7auCs7JUgSX5fSR0Pyw\nkiiAcPKnFeqphwQn93wYPT84+byHdHVBJ7nMLvI2+AOsXPxkfbHT349isqkC9mPp\nFdGjmz4EAxWNAffxoSgQ4vAP\n-----END PRIVATE KEY-----\n"
+client_email = "..."
+client_id = "..."
+auth_uri = "https://accounts.google.com/o/oauth2/auth"
+token_uri = "https://oauth2.googleapis.com/token"
+auth_provider_x509_cert_url = "https://www.googleapis.com/oauth2/v1/certs"
+client_x509_cert_url = "..."
+universe_domain = "googleapis.com"
